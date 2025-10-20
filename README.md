@@ -11,3 +11,18 @@
 </br>
 
 ![wcrypt2](https://github.com/user-attachments/assets/b83eef80-3a85-4730-95b8-033746e3f827)
+
+</br>
+
+```
+//+---------------------------------------------------------------------------
+//
+//  Microsoft Windows
+//  Copyright (C) Microsoft Corporation, 1992 - 1997.
+//
+//  File:       wincrypt.h
+//
+//  Contents:   Cryptographic API Prototypes and Definitions
+//
+//----------------------------------------------------------------------------
+```
